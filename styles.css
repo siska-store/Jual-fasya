@@ -1,0 +1,54 @@
+.container {
+  max-width: 500px;
+  margin: 0 auto;
+  background-image: url('backround.png');
+  height: 200vh;
+  background-image: url('backround.jpg');
+  background-position: center;
+  background-size: cover;
+}
+
+.profile {
+ padding: 0;
+ margin: 0 auto;
+ background-image: url('profil.png');
+ width: 150px;
+ height: 150px;
+ border-radius: 100%;
+ text-align: center;
+
+}
+
+.link {
+  background: #3e3936;
+  width: 300px;
+  height: 200px;
+  margin: 0 auto;
+  margin-bottom: 20px;
+  border-radius: 8px;
+  text-align: center;
+  color: #ffff;
+  padding: 10px;
+  
+}
+h1 {
+  text-align: center;
+}
+p {
+  padding: 5px;
+}
+.button {
+    background-color: #25D366;
+    color: white;
+    padding: 10px 20px;
+    text-decoration: none;
+    border-radius: 5px;
+    font-size: 16px;
+    transition: background-color 0.3s ease;
+    margin-bottom: 30px;
+}
+footer {
+  text-align: center;
+  margin: 0 auto;
+  margin-bottom: 15px;
+}
